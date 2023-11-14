@@ -1,1 +1,1 @@
-# good
+R Scripts to performe a pan-cancer analysis of SEMA4D role in cancer are reported here. This article provides some picture code such as gene expression, ROC, etc.If you want to run the code to produce a picture, please contact the author and the author will provide guidance.
